@@ -6,7 +6,7 @@
 
 Projeto desenvolvido com base na aula [Construindo um portfólio de respeito! - Calculadora de calorias com JavaScript](https://www.youtube.com/watch?v=yiDq9wUiUjc) do [Mateus Silva](https://github.com/maateusilva).
 
-<img align="center" src=".github/getkcal.png" />
+<img align="center" src=".github/getkcal-app.png" />
 
 ## Instalação
 
